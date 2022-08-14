@@ -51,5 +51,3 @@ This app uses a native <a href="https://www.django-rest-framework.org/api-guide/
 - Amazon Web Services S3
 - PostgreSQL
 - Heroku
-
-See a live demo here: https://heya-music-social.herokuapp.com/
